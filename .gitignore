@@ -1,2 +1,6 @@
 # Project exclude paths
 /out/
+vcs.xml
+.gitignore
+.idea
+Java.iml
